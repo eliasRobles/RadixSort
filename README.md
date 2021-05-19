@@ -2,7 +2,7 @@ Universidad de Costa Rica
 Informática Empresarial
 Tarea Corta #3
 
-Integrantes:
+Members:
 
 - Elías Robles Montero - B96551
 - Alejandra Camacho Ochoa - B91470
