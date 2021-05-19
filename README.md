@@ -1,6 +1,4 @@
-Universidad de Costa Rica
-Informática Empresarial
-Tarea Corta #3
+Universidad de Costa Rica | Informática Empresarial | Tarea Corta #3
 
 Members:
 
